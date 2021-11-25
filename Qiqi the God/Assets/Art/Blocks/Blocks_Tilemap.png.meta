@@ -1,7 +1,307 @@
 fileFormatVersion: 2
 guid: d21b81ee493b82449819f4052a8d3772
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7199949437881879227
+    second: Blocks_Tilemap_0
+  - first:
+      213: 5264867849263389592
+    second: Blocks_Tilemap_1
+  - first:
+      213: 8641697838952177676
+    second: Blocks_Tilemap_2
+  - first:
+      213: 4022891380711443760
+    second: Blocks_Tilemap_3
+  - first:
+      213: -2431296974363928494
+    second: Blocks_Tilemap_4
+  - first:
+      213: 278160505421309503
+    second: Blocks_Tilemap_5
+  - first:
+      213: -6202057380150915469
+    second: Blocks_Tilemap_6
+  - first:
+      213: -6567901037875811943
+    second: Blocks_Tilemap_7
+  - first:
+      213: 5535714454724570288
+    second: Blocks_Tilemap_8
+  - first:
+      213: -139937310242607732
+    second: Blocks_Tilemap_9
+  - first:
+      213: 6801506201182338652
+    second: Blocks_Tilemap_10
+  - first:
+      213: -9041243573658938001
+    second: Blocks_Tilemap_11
+  - first:
+      213: 2326077707695480735
+    second: Blocks_Tilemap_12
+  - first:
+      213: 6856582179120411512
+    second: Blocks_Tilemap_13
+  - first:
+      213: -5566630928954688319
+    second: Blocks_Tilemap_14
+  - first:
+      213: 7219360204817130594
+    second: Blocks_Tilemap_15
+  - first:
+      213: 1916044766641655724
+    second: Blocks_Tilemap_16
+  - first:
+      213: 2919378054403790682
+    second: Blocks_Tilemap_17
+  - first:
+      213: 1557165531665489249
+    second: Blocks_Tilemap_18
+  - first:
+      213: 7886973974485176387
+    second: Blocks_Tilemap_19
+  - first:
+      213: 2856531513813160643
+    second: Blocks_Tilemap_20
+  - first:
+      213: 4473172617218797558
+    second: Blocks_Tilemap_21
+  - first:
+      213: -2474194409946422620
+    second: Blocks_Tilemap_22
+  - first:
+      213: 364886283054275598
+    second: Blocks_Tilemap_23
+  - first:
+      213: -6481723324887843959
+    second: Blocks_Tilemap_24
+  - first:
+      213: 7987686210529176008
+    second: Blocks_Tilemap_25
+  - first:
+      213: 867833526392864318
+    second: Blocks_Tilemap_26
+  - first:
+      213: -8253462190442654891
+    second: Blocks_Tilemap_27
+  - first:
+      213: -4963056317323403737
+    second: Blocks_Tilemap_28
+  - first:
+      213: -6355944063968432715
+    second: Blocks_Tilemap_29
+  - first:
+      213: 302175105356018910
+    second: Blocks_Tilemap_30
+  - first:
+      213: -3362009774069068843
+    second: Blocks_Tilemap_31
+  - first:
+      213: -5917514321791548103
+    second: Blocks_Tilemap_32
+  - first:
+      213: -6085190335725555448
+    second: Blocks_Tilemap_33
+  - first:
+      213: 1219405779404020353
+    second: Blocks_Tilemap_34
+  - first:
+      213: -3202883580348244766
+    second: Blocks_Tilemap_35
+  - first:
+      213: -5931122724817766302
+    second: Blocks_Tilemap_36
+  - first:
+      213: 7773312352558131852
+    second: Blocks_Tilemap_37
+  - first:
+      213: -3230939729196807343
+    second: Blocks_Tilemap_38
+  - first:
+      213: 4010553562283642425
+    second: Blocks_Tilemap_39
+  - first:
+      213: -3816686590043974478
+    second: Blocks_Tilemap_40
+  - first:
+      213: -2696724682558758769
+    second: Blocks_Tilemap_41
+  - first:
+      213: 4771290848295980054
+    second: Blocks_Tilemap_42
+  - first:
+      213: -584350889283906088
+    second: Blocks_Tilemap_43
+  - first:
+      213: 2848096826986977858
+    second: Blocks_Tilemap_44
+  - first:
+      213: 4903397861257723774
+    second: Blocks_Tilemap_45
+  - first:
+      213: -4625076149452731846
+    second: Blocks_Tilemap_46
+  - first:
+      213: -3273136955383097540
+    second: Blocks_Tilemap_47
+  - first:
+      213: -2974520335120508287
+    second: Blocks_Tilemap_48
+  - first:
+      213: 3566389995249070964
+    second: Blocks_Tilemap_49
+  - first:
+      213: 2239538014011025550
+    second: Blocks_Tilemap_50
+  - first:
+      213: -3785487598664054932
+    second: Blocks_Tilemap_51
+  - first:
+      213: 3008583085309900970
+    second: Blocks_Tilemap_52
+  - first:
+      213: -3964483334549308557
+    second: Blocks_Tilemap_53
+  - first:
+      213: 5321263389187568218
+    second: Blocks_Tilemap_54
+  - first:
+      213: 6051005663814609474
+    second: Blocks_Tilemap_55
+  - first:
+      213: -1199843428460020618
+    second: Blocks_Tilemap_56
+  - first:
+      213: -1080343006160786871
+    second: Blocks_Tilemap_57
+  - first:
+      213: 6693099002152680726
+    second: Blocks_Tilemap_58
+  - first:
+      213: -5566831356125038865
+    second: Blocks_Tilemap_59
+  - first:
+      213: -7583428280784674017
+    second: Blocks_Tilemap_60
+  - first:
+      213: -6426963758474130293
+    second: Blocks_Tilemap_61
+  - first:
+      213: 8877056858494399024
+    second: Blocks_Tilemap_62
+  - first:
+      213: 3407790709648127393
+    second: Blocks_Tilemap_63
+  - first:
+      213: 6022463937212541637
+    second: Blocks_Tilemap_64
+  - first:
+      213: 5950814656830290375
+    second: Blocks_Tilemap_65
+  - first:
+      213: -144598379504575488
+    second: Blocks_Tilemap_66
+  - first:
+      213: -712501087579090947
+    second: Blocks_Tilemap_67
+  - first:
+      213: 1146423149609902055
+    second: Blocks_Tilemap_68
+  - first:
+      213: -8985070778362648762
+    second: Blocks_Tilemap_69
+  - first:
+      213: 4466147535034292412
+    second: Blocks_Tilemap_70
+  - first:
+      213: 3929772627544011491
+    second: Blocks_Tilemap_71
+  - first:
+      213: -2743931029534429700
+    second: Blocks_Tilemap_72
+  - first:
+      213: -5677962924397636082
+    second: Blocks_Tilemap_73
+  - first:
+      213: -7066449328972642690
+    second: Blocks_Tilemap_74
+  - first:
+      213: -4349203055506860833
+    second: Blocks_Tilemap_75
+  - first:
+      213: -1548793240003711959
+    second: Blocks_Tilemap_76
+  - first:
+      213: 2588539058962665908
+    second: Blocks_Tilemap_77
+  - first:
+      213: -4451910326393925042
+    second: Blocks_Tilemap_78
+  - first:
+      213: 4506090367726560281
+    second: Blocks_Tilemap_79
+  - first:
+      213: -8494195168780952090
+    second: Blocks_Tilemap_80
+  - first:
+      213: 7863108215307427186
+    second: Blocks_Tilemap_81
+  - first:
+      213: 5455865024499789171
+    second: Blocks_Tilemap_82
+  - first:
+      213: 8361417753728871536
+    second: Blocks_Tilemap_83
+  - first:
+      213: 2136421343476698307
+    second: Blocks_Tilemap_84
+  - first:
+      213: 8396748808794928513
+    second: Blocks_Tilemap_85
+  - first:
+      213: 2863528539289919968
+    second: Blocks_Tilemap_86
+  - first:
+      213: 1204992929955747896
+    second: Blocks_Tilemap_87
+  - first:
+      213: -3538222645735318117
+    second: Blocks_Tilemap_88
+  - first:
+      213: -5404126206098025404
+    second: Blocks_Tilemap_89
+  - first:
+      213: -7815172896927490677
+    second: Blocks_Tilemap_90
+  - first:
+      213: 245682596756788697
+    second: Blocks_Tilemap_91
+  - first:
+      213: -8060720173036236699
+    second: Blocks_Tilemap_92
+  - first:
+      213: -1208600081287136718
+    second: Blocks_Tilemap_93
+  - first:
+      213: -8976467828656300955
+    second: Blocks_Tilemap_94
+  - first:
+      213: 2784285250589565521
+    second: Blocks_Tilemap_95
+  - first:
+      213: 697011438704042922
+    second: Blocks_Tilemap_96
+  - first:
+      213: -8629596264084896821
+    second: Blocks_Tilemap_97
+  - first:
+      213: -2946699188011603621
+    second: Blocks_Tilemap_98
+  - first:
+      213: -1424834175040723228
+    second: Blocks_Tilemap_99
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +332,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +341,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +368,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +389,2471 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Blocks_Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545f64a1224a41c90800000000000000
+      internalID: -7199949437881879227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b18b81a61901940800000000000000
+      internalID: 5264867849263389592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00610b166a7de770800000000000000
+      internalID: 8641697838952177676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d4945856e24d730800000000000000
+      internalID: 4022891380711443760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2585e8b884c424ed0800000000000000
+      internalID: -2431296974363928494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f362e2481893cd300800000000000000
+      internalID: 278160505421309503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ec3833caddde9a0800000000000000
+      internalID: -6202057380150915469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9992e75edc02ad4a0800000000000000
+      internalID: -6567901037875811943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc6ad397fec2dc40800000000000000
+      internalID: 5535714454724570288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d6a2cf1c7de0ef0800000000000000
+      internalID: -139937310242607732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ef613aaddc36e50800000000000000
+      internalID: 6801506201182338652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6596405fdc078280800000000000000
+      internalID: -9041243573658938001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fd42fd953e74020800000000000000
+      internalID: 2326077707695480735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873feb70a29772f50800000000000000
+      internalID: 6856582179120411512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccf3f3d9aa5fb2b0800000000000000
+      internalID: -5566630928954688319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26467b14bd1503460800000000000000
+      internalID: 7219360204817130594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf0c694098279a10800000000000000
+      internalID: 1916044766641655724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a571fc97fd6b38820800000000000000
+      internalID: 2919378054403790682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d57630dc92c9510800000000000000
+      internalID: 1557165531665489249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34090f5fa09247d60800000000000000
+      internalID: 7886973974485176387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3c2da8af64074a720800000000000000
+      internalID: 2856531513813160643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6ffa454abc6e31e30800000000000000
+      internalID: 4473172617218797558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 4a2e2e10b45e9add0800000000000000
+      internalID: -2474194409946422620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e0cdcd42426501500800000000000000
+      internalID: 364886283054275598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 98b32b74afa4c06a0800000000000000
+      internalID: -6481723324887843959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8c9a0e3b946f9de60800000000000000
+      internalID: 7987686210529176008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e3e32d88ef92b0c00800000000000000
+      internalID: 867833526392864318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5535c83dddfc57d80800000000000000
+      internalID: -8253462190442654891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 72e1ea5239eaf1bb0800000000000000
+      internalID: -4963056317323403737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5bda8ee8c862bc7a0800000000000000
+      internalID: -6355944063968432715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ed436b648aa813400800000000000000
+      internalID: 302175105356018910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5dbc8355cedb751d0800000000000000
+      internalID: -3362009774069068843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9350450a314c0eda0800000000000000
+      internalID: -5917514321791548103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 801307061af0d8ba0800000000000000
+      internalID: -6085190335725555448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 18a5f6e78133ce010800000000000000
+      internalID: 1219405779404020353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2ec59607a521d83d0800000000000000
+      internalID: -3202883580348244766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2687df36e4b60bda0800000000000000
+      internalID: -5931122724817766302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c8a226e566a50eb60800000000000000
+      internalID: 7773312352558131852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 15b078e3f656923d0800000000000000
+      internalID: -3230939729196807343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: 3, y: 7}
+        - {x: -5, y: 7}
+        - {x: -7, y: 5}
+        - {x: -7, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 93e0890573958a730800000000000000
+      internalID: 4010553562283642425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2b49e6d94c7680bc0800000000000000
+      internalID: -3816686590043974478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f80ae07603f439ad0800000000000000
+      internalID: -2696724682558758769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 61c01c44fb7073240800000000000000
+      internalID: 4771290848295980054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8d59c0456f7f3e7f0800000000000000
+      internalID: -584350889283906088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 24ad97a69f8768720800000000000000
+      internalID: 2848096826986977858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e7f3da0206e5c0440800000000000000
+      internalID: 4903397861257723774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: a3a0dbc2fbd60dfb0800000000000000
+      internalID: -4625076149452731846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c37df29e74b7392d0800000000000000
+      internalID: -3273136955383097540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 18a57ffc38168b6d0800000000000000
+      internalID: -2974520335120508287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 473f35d1ecc5e7130800000000000000
+      internalID: 3566389995249070964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e886c1a45ff641f10800000000000000
+      internalID: 2239538014011025550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c678bfbd51f377bc0800000000000000
+      internalID: -3785487598664054932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: aa8352d3062a0c920800000000000000
+      internalID: 3008583085309900970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 37b7b3679635bf8c0800000000000000
+      internalID: -3964483334549308557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: a52f0d4fbdce8d940800000000000000
+      internalID: 5321263389187568218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 24aeb85779d79f350800000000000000
+      internalID: 6051005663814609474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 67cbd8442cc495fe0800000000000000
+      internalID: -1199843428460020618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 94a653282c9d101f0800000000000000
+      internalID: -1080343006160786871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 61df4d5b41aa2ec50800000000000000
+      internalID: 6693099002152680726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 5}
+        - {x: 5, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 7, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: fe639ad3064aeb2b0800000000000000
+      internalID: -5566831356125038865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13ad28482042c690800000000000000
+      internalID: -7583428280784674017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c07df5386dec6a0800000000000000
+      internalID: -6426963758474130293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032f08d1e24a13b70800000000000000
+      internalID: 8877056858494399024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5f37d5897ea4f20800000000000000
+      internalID: 3407790709648127393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca6722ea07149350800000000000000
+      internalID: 6022463937212541637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9be80d66a859250800000000000000
+      internalID: 5950814656830290375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c588a3a884efdf0800000000000000
+      internalID: -144598379504575488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffc4cc2900bc16f0800000000000000
+      internalID: -712501087579090947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef58c2d7c9e8ef00800000000000000
+      internalID: 1146423149609902055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -2}
+        - {x: 16, y: -2}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a3f56bbd9e4380800000000000000
+      internalID: -8985070778362648762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8943c3581fafd30800000000000000
+      internalID: 4466147535034292412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e270d8426b598630800000000000000
+      internalID: 3929772627544011491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdad6044499be9d0800000000000000
+      internalID: -2743931029534429700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06d07badc2d331b0800000000000000
+      internalID: -5677962924397636082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76c94366cdeeed90800000000000000
+      internalID: -7066449328972642690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd458743dd684a3c0800000000000000
+      internalID: -4349203055506860833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c6d0b01c4918ae0800000000000000
+      internalID: -1548793240003711959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b191b83f865ce320800000000000000
+      internalID: 2588539058962665908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4295673523a732c0800000000000000
+      internalID: -4451910326393925042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a62ea059d88e30800000000000000
+      internalID: 4506090367726560281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edd8f78f7e8e1a80800000000000000
+      internalID: -8494195168780952090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ddad3e24f5f1d60800000000000000
+      internalID: 7863108215307427186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37da9c7555027bb40800000000000000
+      internalID: 5455865024499789171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c67a57529b90470800000000000000
+      internalID: 8361417753728871536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cccd7484e716ad10800000000000000
+      internalID: 2136421343476698307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185f760cd8e378470800000000000000
+      internalID: 8396748808794928513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1a19ce80c4db720800000000000000
+      internalID: 2863528539289919968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389eda7faef8b010800000000000000
+      internalID: 1204992929955747896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d14b00045b5eec0800000000000000
+      internalID: -3538222645735318117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d52c09dfa005b0800000000000000
+      internalID: -5404126206098025404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d506428adea8390800000000000000
+      internalID: -7815172896927490677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d51f232507d86300800000000000000
+      internalID: 245682596756788697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560995cc5b1922090800000000000000
+      internalID: -8060720173036236699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a3f5721a03a3fe0800000000000000
+      internalID: -1208600081287136718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c1837b11e2d6380800000000000000
+      internalID: -8976467828656300955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15220c20fa4c3a620800000000000000
+      internalID: 2784285250589565521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3a658e5384ca900800000000000000
+      internalID: 697011438704042922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38e2c5be38d3880800000000000000
+      internalID: -8629596264084896821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59e2a663b83b17d0800000000000000
+      internalID: -2946699188011603621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_Tilemap_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e66cdcedd8f93ce0800000000000000
+      internalID: -1424834175040723228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
